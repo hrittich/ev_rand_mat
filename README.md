@@ -4,4 +4,4 @@ the sence that all entries are integers. To use the script run the command:
 
     $ python3 ev_rand_mat.py
 
-Python 3 is required.
+[Python 3](https://www.python.org/) and [SymPy](http://www.sympy.org/) are required.
